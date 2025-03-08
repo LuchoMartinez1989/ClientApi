@@ -1,0 +1,11 @@
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\bin\Debug\net8.0\Domain.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\bin\Debug\net8.0\Domain.pdb
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\Domain.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\Domain.pdb
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Domain\obj\Debug\net8.0\ref\Domain.dll

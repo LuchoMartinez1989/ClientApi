@@ -1,0 +1,17 @@
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\bin\Debug\net8.0\shared.deps.json
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\bin\Debug\net8.0\shared.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\bin\Debug\net8.0\shared.pdb
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.csproj.AssemblyReference.cache
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.AssemblyInfoInputs.cache
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.AssemblyInfo.cs
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.csproj.CoreCompileInputs.cache
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\refint\shared.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.pdb
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\ref\shared.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\bin\Debug\net8.0\Application.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\bin\Debug\net8.0\Application.pdb
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\obj\Debug\net8.0\shared.csproj.Up2Date
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\bin\Debug\net8.0\Domain.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\shared\bin\Debug\net8.0\Domain.pdb
