@@ -10,11 +10,11 @@ namespace Domain.Common
     {
         public virtual int Id { get; set; }  // se crea virtual para que adalis no mande esa propiedad a la BD
 
-        public string CreatedBy { get; set; }
+        public string? CreatedBy { get; set; }
 
-        public DateTime Created { get; set; }
+        public DateTime? Created { get; set; }
 
-        public string LastModifiedBy { get; set; }
+        public string? LastModifiedBy { get; set; }
 
         public DateTime? LastModified { get; set; }
 

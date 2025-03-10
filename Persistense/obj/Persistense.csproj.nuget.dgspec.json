@@ -74,11 +74,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[11.0.0, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[12.4.1, )"
             },
             "Microsoft.Extensions.Options.ConfigurationExtensions": {
               "target": "Package",
@@ -204,9 +200,6 @@
             "projectReferences": {
               "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Application\\Application.csproj": {
                 "projectPath": "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Application\\Application.csproj"
-              },
-              "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Domain\\Domain.csproj"
               }
             }
           }
@@ -249,11 +242,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[11.0.0, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[12.4.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

@@ -10,6 +10,7 @@ E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\Persistense.AssemblyInfoInputs.cache
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\Persistense.AssemblyInfo.cs
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\Persistense.csproj.CoreCompileInputs.cache
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\Persistense.sourcelink.json
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\Persiste.21D28332.Up2Date
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\Persistense.dll
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\refint\Persistense.dll

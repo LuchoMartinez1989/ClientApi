@@ -7,25 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Features\Clients\Commands\CreateClientCommand\CreateClientCommandHandler .cs" />
+    <Compile Remove="Features\Clients\Commands\UpdateClientCommand\UpdateClientCommandHandler.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Ardalis.Specification" Version="8.0.0" />
     <PackageReference Include="AutoMapper" Version="14.0.0" />
     <PackageReference Include="FluentValidation" Version="11.11.0" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
-    <PackageReference Include="MediatR" Version="11.0.0" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="ENUMs\" />
-    <Folder Include="Features\Clients\Commands\DeleteClientCommand\" />
-    <Folder Include="Features\Clients\Commands\UpdateClientCommand\" />
-    <Folder Include="Features\Clients\Queries\GetAllClients\" />
-    <Folder Include="Features\Clients\Queries\GetClientById\" />
-    <Folder Include="Specifications\" />
-    <Folder Include="Settings\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>

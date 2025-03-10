@@ -7,8 +7,14 @@ E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.AssemblyInfoInputs.cache
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.AssemblyInfo.cs
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.csproj.CoreCompileInputs.cache
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.sourcelink.json
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.dll
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\refint\Identity.dll
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.pdb
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.genruntimeconfig.cache
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\ref\Identity.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\bin\Debug\net8.0\Application.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\bin\Debug\net8.0\Domain.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\bin\Debug\net8.0\Application.pdb
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\bin\Debug\net8.0\Domain.pdb
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Identity\obj\Debug\net8.0\Identity.csproj.Up2Date

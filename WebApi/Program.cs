@@ -1,19 +1,26 @@
 using Application;
+using Identity.Models;
+using Identity.Seeds;
+using Microsoft.AspNetCore.Identity;
 using Persistense;
 using Shared;
 using WebApi.Extensions;
-
+using Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Rerencia a metodo de aplication
 builder.Services.AddApplicationLayer(builder.Configuration);
 
+
 // envio de configuracion del Api
 builder.Services.AddPersistenseInfraestructure(builder.Configuration);
 
 //Agrega el proyecto Shared
 builder.Services.AddSharedInfraestructure(builder.Configuration);
+
+//matricular capa identity
+builder.Services.AddIdentityInfraestructure(builder.Configuration);
 
 // Add services to the container.
 
@@ -22,7 +29,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
 var app = builder.Build();
+
+// Identity Auth
+var services = app.Services.CreateAsyncScope();
+var userManager = services.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+var roleManager = services.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+await DefaultRoles.SeedAsync(userManager, roleManager);
+await DefaultAdministratorUser.SeedAsync(userManager, roleManager);
+await DefaultManagerUser.SeedAsync(userManager, roleManager);
+await DefaultSalesUser.SeedAsync(userManager, roleManager);
+app.UseAuthentication();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -41,3 +59,5 @@ app.UseErrorHandlingMiddleware();
 app.MapControllers();
 
 app.Run();
+
+

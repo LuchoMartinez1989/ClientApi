@@ -19,9 +19,12 @@ namespace Application
         {
             services.AddAutoMapper(Assembly.GetExecutingAssembly());//se agregan dependencias a nivel de mapper
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
-            services.AddMediatR(Assembly.GetExecutingAssembly());
+            // agregar el  media tr 
+            services.AddMediatR(c=>c.RegisterServicesFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
+
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidatonBeahavior<,>));
 
         }
+
     }
 }
