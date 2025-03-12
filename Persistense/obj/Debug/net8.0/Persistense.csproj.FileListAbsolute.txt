@@ -16,3 +16,5 @@ E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\refint\Persistense.dll
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\Persistense.pdb
 E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\obj\Debug\net8.0\ref\Persistense.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\bin\Debug\net8.0\Identity.dll
+E:\01.ProyectosActivos\01.GestorCotizaciones\BackEndApis\ApiClientes\ApiClientes\Persistense\bin\Debug\net8.0\Identity.pdb

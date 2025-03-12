@@ -333,6 +333,9 @@
             "projectReferences": {
               "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Application\\Application.csproj": {
                 "projectPath": "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Application\\Application.csproj"
+              },
+              "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Identity\\Identity.csproj": {
+                "projectPath": "E:\\01.ProyectosActivos\\01.GestorCotizaciones\\BackEndApis\\ApiClientes\\ApiClientes\\Identity\\Identity.csproj"
               }
             }
           }
